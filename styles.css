@@ -1,0 +1,32 @@
+body {
+    width: fit-content;
+    border: 2px solid black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#display {
+    
+    width: 120px;
+    height: 30px;
+    font-size: 20px;
+    text-align: right;
+    background-color: pink;
+    
+}
+
+button {
+    
+    width: 35px;
+    height: 35px;
+    font-size: 18px;
+    margin: 2px;
+    
+    background-color: pink;
+    
+}
+
